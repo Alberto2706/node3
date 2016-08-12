@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alberto2706/node3.git"
+    "url": "https://github.com/Alberto2706/node3.1.git"
   },
   "author": "Alberto Lopez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alberto2706/node3/issues"
+    "url": "https://github.com/Alberto2706/node3.1/issues"
   },
-  "homepage": "https://github.com/Alberto2706/node3",
+  "homepage": "https://github.com/Alberto2706/node3.1",
   "dependencies": {
     "express": "^4.14.0"
   }
