@@ -1,0 +1,22 @@
+{
+  "name": "node3",
+  "version": "1.0.0",
+  "description": "Nuevos conocimientos sobre Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alberto2706/node3.git"
+  },
+  "author": "Alberto Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alberto2706/node3/issues"
+  },
+  "homepage": "https://github.com/Alberto2706/node3",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
